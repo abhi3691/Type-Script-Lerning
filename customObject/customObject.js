@@ -1,5 +1,6 @@
-var list3 = {
+"use strict";
+const list3 = {
     name: "Rekhil",
-    age: 23
+    age: 23,
 };
 console.log(list3);

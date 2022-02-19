@@ -1,1 +1,22 @@
 This is the Type Script Learning Processes
+This have data Declaration,Array,Union,Object,Custom Objects, functions,enums,class
+
+
+Array
+--------
+
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#arrays
+
+
+ENUMS
+------
+https://www.typescriptlang.org/docs/handbook/enums.html
+
+Interface
+--------------
+https://www.typescriptlang.org/docs/handbook/2/objects.html
+
+class
+--------------
+https://www.typescriptlang.org/docs/handbook/2/classes.html
+
